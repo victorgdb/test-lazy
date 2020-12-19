@@ -1,0 +1,11 @@
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.editor-container {
+  width: 30%;
+  background-color: rgb(59, 59, 59);
+}
